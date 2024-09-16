@@ -74,3 +74,4 @@ Remember to allow public subnets to access the internet by configuring the route
 Now you have a fully functional VPC with its components set up properly! Happy networking!
 
 ![image](https://github.com/saikiranpi/mastering-aws/assets/109568252/97947faf-5b41-41da-9be0-78fd4e495250)
+  
