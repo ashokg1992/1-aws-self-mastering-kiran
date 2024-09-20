@@ -5,7 +5,7 @@ if [ ! -f "$f" ]; then
     echo "$f does not exist!"
     exit
 fi
-
+ 
 touch "$f"
 MAXSIZE=$((1 * 1024))
 
